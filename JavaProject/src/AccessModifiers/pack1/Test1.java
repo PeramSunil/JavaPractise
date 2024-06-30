@@ -6,7 +6,6 @@ public class Test1 {
 	int i=100;
 	void m1() {
 		System.out.println("This is m1 method from Test1 class..");
-		System.out.println("....")
 	}
 	// We are created with private access modifer.
 	private int j=100;
